@@ -5,4 +5,3 @@ const float pi = 3.14;
 int main(){
     cout<<pi;
 }
-// 
