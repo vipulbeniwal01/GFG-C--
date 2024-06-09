@@ -5,7 +5,7 @@ int main(){
     cout<<a<<endl;
     cout<<boolalpha;
     cout<<a<<endl;
-    cout<<noboolalpha;
+    cout<<noboolalpha<<endl;
     cout<<a<<endl;
     return 0;
 }
