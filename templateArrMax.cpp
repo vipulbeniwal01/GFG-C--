@@ -14,7 +14,7 @@ T arrMax(T arr[],int n){
 
 int main(){
     int arr[]={1,2,3,4,9,5};
-    int ans = arrMax(arr,6);
+    int ans = arrMax<int>(arr,6);
     cout<<ans<<endl;
     return 0;
 }
